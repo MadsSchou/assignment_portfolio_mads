@@ -96,8 +96,6 @@ html[data-theme="dark"] {
   font-size: 2.8rem;
   line-height: 3rem;
   font-style: oblique;
-
-  /* Idea 4 */
   color: var(--color-accent4);
   text-shadow: 2px 3px 0px var(--color-secondary1);
 }

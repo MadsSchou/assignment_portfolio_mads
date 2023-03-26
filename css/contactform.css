@@ -5,7 +5,7 @@
 form {
   max-width: 420px;
   margin: 50px auto;
-  background-color: var(--color-accent2);
+  background-color: var(--color-primary2);
   padding: 1rem;
   border-radius: 0.2rem;
 }
@@ -18,7 +18,7 @@ form {
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border: 2px solid var(--color-primary2);
+  border: 2px solid var(--color-primary1);
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -28,7 +28,7 @@ form {
 }
 
 .feedback-input:focus {
-  border: 2px solid var(--color-secondary1);
+  border: 2px solid var(--color-secondary4);
 }
 
 textarea {
@@ -40,7 +40,7 @@ textarea {
 [type="submit"] {
   font-family: "Montserrat", Arial, Helvetica, sans-serif;
   width: 100%;
-  background: var(--color-secondary2);
+  background-color: var(--color-primary3);
   border-radius: 5px;
   border: 0;
   cursor: pointer;
